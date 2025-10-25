@@ -1,7 +1,7 @@
 # 🎨 CreatorHub
 
 ## CreatorHub is a decentralized content and creator platform strategically designed to integrate 8 major Web3 bounties from the Encode London Hackathon 2025. 
-By leveraging blockchain infrastructure, AI, and secure smart contract design, CreatorHub aims to maximize value##
+By leveraging blockchain infrastructure, AI, and secure smart contract design, CreatorHub aims to maximize value
 
 > **Empowering creators with unified Web3 infrastructure**
 
