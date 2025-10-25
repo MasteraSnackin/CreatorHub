@@ -98,13 +98,13 @@ docker-compose up -d
 ## 🎬 Demo Videos
 
 ### 🎥 Platform Overview
-**"Catch Free Creator" Demo**
+**"Catch Free Creator" Demo clickable to the video**
 [![Watch Demo](https://img.youtube.com/vi/0OaoySgCJn0/maxresdefault.jpg)](https://youtu.be/0OaoySgCJn0)
 
 > See how creators can monetize content across multiple chains with zero friction
 
 ### 🌐 Complete Walkthrough  
-**"CreatorHub: The Web3 Antidote"**
+**"CreatorHub: The Web3 Antidote" clickable to the video**
 [![Watch Full Tutorial](https://img.youtube.com/vi/tPVdICxnEvc/maxresdefault.jpg)](https://youtu.be/tPVdICxnEvc)
 
 > Complete platform demonstration showcasing all 8 integrated technologies
@@ -162,6 +162,14 @@ Each blockchain technology is integrated as a modular SDK with dedicated hooks a
 
 > 📖 **Full Documentation**: See `/docs/modules/` for detailed integration guides
 ## 📦 Deployment
+
+Configure Environment: Set all required API keys and endpoints in .env (Openfort, Livepeer Studio, Arbitrum RPC, Concordium endpoint, etc.)
+
+Security Scan: Run Hakflow pre-submission scan and commit the security report.
+
+Publish: Push to GitHub (public repo) with README, architecture diagram, and demo video links.
+
+Deploy: Frontend via Vercel, backend via Docker Compose, smart contracts to Arbitrum Sepolia testnet.
 
 ### ✅ Pre-Deployment Checklist
 
@@ -227,6 +235,29 @@ We welcome contributions from the community! CreatorHub is built for creators, b
 4. **Push** to branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
 
+We welcome contributions from the community! CreatorHub is built for creators, by creators.
+
+🌟 Ways to Contribute
+🐛 Report Bugs: Open an issue with reproduction steps
+
+💡 Suggest Features: Share ideas in Discussions
+
+📝 Improve Docs: Fix typos, add examples
+
+🔧 Submit PRs: Follow our contribution guidelines
+
+📋 Contribution Process
+Fork the repository
+
+Create a feature branch (git checkout -b feature/amazing-feature)
+
+Commit changes (git commit -m '✨ Add amazing feature')
+
+Push to branch (git push origin feature/amazing-feature)
+
+Open a Pull Request
+
+
 ### 💬 Code of Conduct
 
 We follow the [Contributor Covenant](https://www.contributor-covenant.org/). Be respectful, inclusive, and constructive.
@@ -277,8 +308,15 @@ Built with ❤️ by the CreatorHub team | [Website](#) | [Twitter](#) | [Discor
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge(https://opensource.org/licenses Contact
+
+For questions or support, open an issue on GitHub or contact the project maintainers directly.
+
+
+🙏 Acknowledgments
+Built for: Encode London Hackathon 2025
+Thanks to all partners: Arbitrum, Concordium, Envio, Story Protocol, Livepeer, Openfort, Hakflow, Neo.
 
 
