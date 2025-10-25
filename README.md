@@ -107,6 +107,8 @@ docker-compose up -d
 **"CreatorHub: The Web3 Antidote" clickable to the video**
 [![Watch Full Tutorial](https://img.youtube.com/vi/tPVdICxnEvc/maxresdefault.jpg)](https://youtu.be/tPVdICxnEvc)
 
+## Download video here https://github.com/MasteraSnackin/CreatorHub/tree/master/Videos
+
 > Complete platform demonstration showcasing all 8 integrated technologies
 >
 > ## 🔍 Why CreatorHub?
