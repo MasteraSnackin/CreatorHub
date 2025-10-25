@@ -1,8 +1,11 @@
 # 🎨 CreatorHub
 
+## CreatorHub is a decentralized content and creator platform strategically designed to integrate 8 major Web3 bounties from the Encode London Hackathon 2025. 
+By leveraging blockchain infrastructure, AI, and secure smart contract design, CreatorHub aims to maximize value##
+
 > **Empowering creators with unified Web3 infrastructure**
 
-**The Challenge**: Web3 creators face fragmented tooling across 8+ blockchain platforms, requiring separate integrations, wallets, and workflows.
+**The Challenge**: Web3 creators face fragmented tooling across blockchain platforms, requiring separate integrations, wallets, and workflows.
 
 **The Solution**: CreatorHub unifies Arbitrum, Concordium, Envio, Story Protocol, Livepeer, Openfort, Hakflow, and Neo into a single, intuitive platform—built for the Encode London Hackathon 2025.
 
@@ -107,8 +110,6 @@ docker-compose up -d
 **"CreatorHub: The Web3 Antidote" clickable to the video**
 [![Watch Full Tutorial](https://img.youtube.com/vi/tPVdICxnEvc/maxresdefault.jpg)](https://youtu.be/tPVdICxnEvc)
 
-## Download video here https://github.com/MasteraSnackin/CreatorHub/tree/master/Videos
-
 > Complete platform demonstration showcasing all 8 integrated technologies
 >
 > ## 🔍 Why CreatorHub?
@@ -122,22 +123,28 @@ docker-compose up -d
 | **Security Audits** | Manual, expensive | 🛡️ Built-in Hakflow analysis |
 | **Payment Flows** | Complex smart contracts | 🤖 AI-automated Arbitrum rails |
 
-System Overview (Level 0 Context Diagram)
+## System Overview (Level 0 Context Diagram)
 <img width="891" height="490" alt="Level 0 Context Diagram" src="https://github.com/user-attachments/assets/d9ff8a29-9bd4-48ad-abf3-8ade75b47d3a" />
-Main Processes (Level 1 Data Flow)
+
+## Main Processes (Level 1 Data Flow)
 <img width="969" height="776" alt="Data Flow Diagram level1 main processes " src="https://github.com/user-attachments/assets/5c20a458-37d8-4d97-ba53-852bd6b9a2e7" />
-Detailed Data Flows (Level 2 Data Flow)
+
+## Detailed Data Flows (Level 2 Data Flow)
 <img width="1039" height="709" alt="Data Flow Dirgram level2 detailed flows" src="https://github.com/user-attachments/assets/ecec1f48-e4ff-430a-883d-2bfc697bb2c3" />
-🔄 Key Workflows
+
+
+## 🔄 Key Workflows
 Sequence Diagram (Main Platform Flow)
 <img width="2880" height="788" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/723ce7f4-ea51-4aa6-904e-c99956fb4c9a" />
-IP Registration Flow
+
+## IP Registration Flow
 <img width="1221" height="805" alt="Sequence Diagram - IP Registration Flow" src="https://github.com/user-attachments/assets/35338e16-b133-4fdf-ac7d-07d76b78aff3" />
-Identity Verification Flow
+
+## Identity Verification Flow
 <img width="1327" height="750" alt="Sequence Diagram - Identity Verification Flow" src="https://github.com/user-attachments/assets/2811538b-4a07-4a1f-8c91-64bcc1666ba2" />
 
-
-
+## Diagrams are downloadable from here
+https://github.com/MasteraSnackin/CreatorHub/tree/master/Diagrams
 
 
 
@@ -159,8 +166,6 @@ Each blockchain technology is integrated as a modular SDK with dedicated hooks a
 **Purpose**: Real-time multi-chain data aggregation  
 **Implementation**: GraphQL queries, WebSocket streams  
 **Integration**: `useEnvioData()` hook
-
-*[Continue for all 8 technologies with consistent format]*
 
 > 📖 **Full Documentation**: See `/docs/modules/` for detailed integration guides
 ## 📦 Deployment
@@ -285,7 +290,7 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/). Be 
 
 **⭐ If you found this project helpful, please consider starring the repository!**
 
-Built with ❤️ by the CreatorHub team | [Website](#) | [Twitter](#) | [Discord](#)
+Built with ❤️ by the CreatorHub team
 
 ## 🗺️ Roadmap
 
