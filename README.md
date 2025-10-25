@@ -102,7 +102,14 @@ docker-compose up -d
 - **Frontend**: Next.js 14, TypeScript, TailwindCSS, modular React hooks for all SDKs
 - **Backend**: Node.js Express API, Rust microservice for Concordium, Envio-HyperIndex data streaming
 - **Smart Contracts**: Solidity (Arbitrum), Rust Wasm (Concordium), Hakflow security audits
-- **Modules**: Each bounty has a dedicated `/modules/<bounty-name>` directory with SDK and API integration
+
+## Sequence Diagram - IP Registration Flow
+<img width="1221" height="805" alt="Sequence Diagram - IP Registration Flow" src="https://github.com/user-attachments/assets/35338e16-b133-4fdf-ac7d-07d76b78aff3" />
+
+
+## Identity Verification Flow
+<img width="1327" height="750" alt="Sequence Diagram - Identity Verification Flow" src="https://github.com/user-attachments/assets/2811538b-4a07-4a1f-8c91-64bcc1666ba2" />
+
 
 ## Module Integration
 
