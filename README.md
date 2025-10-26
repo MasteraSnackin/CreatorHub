@@ -10,8 +10,6 @@ By leveraging blockchain infrastructure, AI, and secure smart contract design, C
 
 **The Solution**: CreatorHub unifies Arbitrum, Concordium, Envio, Story Protocol, Livepeer, Openfort, Hakflow, and Neo into a single, intuitive platform—built for the Encode London Hackathon 2025.
 
-**SpoonOS video**
-[![Watch Full Tutorial](https://img.youtube.com/vi/OAtnRBHcink/maxresdefault.jpg)](https://youtu.be/OAtnRBHcink)
 
 ## ✨ Features
 
